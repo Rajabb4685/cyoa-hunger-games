@@ -1,4 +1,4 @@
-# Victory on `first battle` 
+# `Victory on first battle` 
 
 You win the fight and you get the supply bag and run to the forest.
 
