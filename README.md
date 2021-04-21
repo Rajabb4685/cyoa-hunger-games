@@ -8,6 +8,6 @@ The purpose of creating this repository was to learn collaboration, also to have
 
 Creators:
 * [Rajab Begim](https://github.com/Rajabb4685)
-* [Victoria Cen ](github.com/victoriac5469)
-* [Marlen Penafort](github.com/marlenp7932)
-* [JingWen Chen](github.com/jingwenc9021)
+* [Victoria Cen Wu](https://github.com/victoriac5469)
+* [Marlen Penafort](https://github.com/marlenp7932)
+* [JingWen Chen](https://github.com/jingwenc9021)
