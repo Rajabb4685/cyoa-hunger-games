@@ -1,6 +1,6 @@
 # Stab 
 
-While getting the supplies you were stabbed on your upper arm, what will you do.
+While getting the supplies you were stabbed on your `upper arm`, what will you do.
 
 [Take out the knife and stab them with it](26-death.md) 
 
