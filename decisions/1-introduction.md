@@ -4,6 +4,6 @@ In a game of survival, different people are chosen and forced into an arena to c
 
 ---
 
-[Tribute](2-Tribute.md)
+[Tribute](4-got-pick.md)
 
-[Don't Tribute](3-dont-tribute.md)
+[Don't Tribute](4-got-pick.md)
