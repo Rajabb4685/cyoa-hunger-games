@@ -6,4 +6,6 @@ Unfortunately, You’re too kind to your enemies. You got **killed** one of the 
 
 ---
 
-[Start Over](1-introduction.md)
+[Try again](1-introduction.md)
+
+[Home page](https://github.com/Rajabb4685/cyoa-hunger-games)
