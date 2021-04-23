@@ -1,9 +1,11 @@
 # Entering the Arena
 ---
-The game begins three days later. Following the other tributes, you enter the arena. Where will you go first? 
+The game begins three days later. You enter the arena. 
+
+`Where will you go first?`
 
 ---
 
-[Go to the forest](12-bug-bite.md)
+> [Go to the forest](12-bug-bite.md)
 
-[Run to go get supplies](13-stabbed.md)
+> [Run to go get supplies](13-stabbed.md)

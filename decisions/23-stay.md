@@ -1,4 +1,4 @@
-# Stay up in the tree
+# Death
 
 ---
 
