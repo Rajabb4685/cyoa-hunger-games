@@ -14,6 +14,6 @@ You wake up the next wake, as you wake up you feel a sting on your stabbed upper
 Do you want to: 
 
 
-> [get supply](24-get-supply.md)
+> [get supply](25-win.md)
 
 > [stay on the tree](26-death.md)
