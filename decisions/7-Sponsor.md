@@ -1,10 +1,9 @@
 # Sponsor
 ---
-After showing off good/bad you will obviously that you got it or not.
+You did well , and because of that you managed to get a sponsor, good job !
 
 ---
 
-[sponsor](9-entering-arena.md)
+[continue](9-entering-arena.md)
 
-[no sponsor](9-entering-arena.md)
 

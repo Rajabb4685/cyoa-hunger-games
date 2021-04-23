@@ -6,9 +6,7 @@
 
  [This website explains the skills below](https://thehungergames.fandom.com/wiki/Training_stations)
  
- 
 ---
-
 > [Archery](7-Sponsor.md)
 
 > [Axes](7-Sponsor.md)
@@ -51,7 +49,4 @@
 
 > [None of the above](8-sponsor.md)
  
- 
 ---
-
- 
