@@ -3,7 +3,6 @@
  
 ### what are good at?  
 
-
  [This website explains the skills below](https://thehungergames.fandom.com/wiki/Training_stations)
  
 ---
