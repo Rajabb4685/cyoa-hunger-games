@@ -8,4 +8,4 @@ Good! You find a tree and stay up to hide yourself from others. Right now, you s
 
 [Kill them](21-four-throws.md)          
 
-[let them pass](19-dont-kill.md)
+[Don't kill them](19-dont-kill.md)
