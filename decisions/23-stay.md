@@ -2,7 +2,7 @@
 
 ---
 
-Unfortunately, you _died_ becauses you were poisoned and didn’t cure it at time. 
+Unfortunately, you _died_ because you were poisoned and didn’t cure it at time. 
 
 ---
 
