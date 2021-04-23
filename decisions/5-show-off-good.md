@@ -46,6 +46,6 @@
 
 > [Wrestling](7-Sponsor.md)
 
-> [None of the above](8-sponsor.md)
+> [None of the above](8-no-sponsor.md)
  
 ---
