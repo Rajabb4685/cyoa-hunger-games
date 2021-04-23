@@ -1,1 +1,0 @@
-[fight back](16-announcement.md)
