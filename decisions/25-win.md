@@ -8,4 +8,4 @@ Congratulations!! You are the winner because you’re the last one who survives 
 
 ---
 
-[Enjoy the rest of your life](../README.md)
+[Enjoy the rest of your life](https://github.com/Rajabb4685/cyoa-hunger-games)
