@@ -4,7 +4,7 @@ You win the fight and you get the supply bag and run to the forest.
 
 # Announcement :
 
-14 tribute died, 10 remains 
+14 tributes died, 10 remain 
 
 While running to the forest you notice a group of tributes together.
 
